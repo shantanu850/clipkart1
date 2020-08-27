@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767561825848",
+    "firebase_url": "https://sanu-infoech.firebaseio.com",
+    "project_id": "sanu-infoech",
+    "storage_bucket": "sanu-infoech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767561825848:android:9b32a42fcaed53bb59b0cd",
+        "android_client_info": {
+          "package_name": "com.sanuinfotech.clipkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767561825848-i9n0mu3d11gnpd4oshjgfvtpsqov3uid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ckXrAZdIseL7NqiNw-QM9hrslTGErg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767561825848-biog5gfr995fbmgpjkk18espo5tkoe6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
